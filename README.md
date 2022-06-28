@@ -1,6 +1,3 @@
-<font face="Consolas"><i>
-
-
 # Self-Introduction
 Hi, my name is Pan Daoxi. This is my [home page](https://pandaoxi.github.io/).
 I come from Hebei, China. I am a sixth grade primary school student. I am 13 years old and love programming technology.
