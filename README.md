@@ -1,6 +1,3 @@
-<font face="Consolas"><i>
-
-
 # Self-Introduction
 Hi, my name is Pan Daoxi. This is my [home page](https://pandaoxi.github.io/).
 I come from Hebei, China. I am a sixth grade primary school student.
@@ -57,7 +54,7 @@ My achievements:
 Here are some simple styles that I usually use to write programs, so that everyone can know me better.
 
 ## Python
-**From a project *Tool Module* **
+From a project **Tool Module**.
 ```python
 class Math():
     def __init__(self):
@@ -101,7 +98,7 @@ class Math():
 ```
 
 ## C++
-**From an *[explanation of my question](https://blog.csdn.net/PanDaoxi2020/article/details/122855628). * **
+From an **[explanation of my question](https://blog.csdn.net/PanDaoxi2020/article/details/122855628). **
 ```cpp
 // Author:PanDaoxi
 #include <iostream>
@@ -128,7 +125,7 @@ int main(){
 }
 ```
 ## Windows Batch
-**From a *[computer personalized applet.](https://www.bilibili.com/video/BV1cY4y1B7ya)* **
+From a **[computer personalized applet.](https://www.bilibili.com/video/BV1cY4y1B7ya)**
 ```powershell
 chcp 65001 >nul
 cd "%userprofile%\desktop"
@@ -167,14 +164,21 @@ Our sub stations provide static page deployment and resource stations, which are
 > If it is not the domain name listed below, please pay attention to prevent bad content.
 
 This is our main site. `https://pandaoxi.github.io/` [(Click here to visit the site.)](https://pandaoxi.github.io/)
+
 Static server 1: `https://pandaoxis.github.io/` [(Click here to visit the site.)](https://pandaoxis.github.io/)
+
 Static server 2: `https://pandaoxi2021.github.io/` [(Click here to visit the site.)](https://pandaoxi2021.github.io/)
+
 Static server 3: `https://pandaoxiweb.github.io/` [(Click here to visit the site.)](https://pandaoxiweb.github.io/)
+
 
 ### Resource Station (file storage station)
 This is our main site. `https://pandaoxi.coding.net/public/pandaoxi/PanDaoxi/git/files` [(Click here to visit the site.)](https://pandaoxi.coding.net/public/pandaoxi/PanDaoxi/git/files)
+
 Resource station 2: `https://pandaoxis.coding.net/public/pdxres/pdxres/git/files` [(Click here to visit the site.)](https://pandaoxis.coding.net/public/pdxres/pdxres/git/files)
+
 Resource station 3: `https://newpdx.coding.net/public/laopan/laopan/git/files` [(Click here to visit the site.)](https://newpdx.coding.net/public/laopan/laopan/git/files)
+
 
 ---
 **At present, the young blogger has won more than *1000 fans* throughout the network.**
