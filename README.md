@@ -1,11 +1,7 @@
 # Self-Introduction
 Hi, my name is Pan Daoxi. This is my [home page](https://pandaoxi.github.io/).
-I come from Hebei, China. I am a sixth grade primary school student.
-I am 13 years old and love programming technology.
-
-I like to write C++, Python and windows batch.
-I hope to help more people with programs. 
-At present, I am a student of Informatics competition.
+I come from Hebei, China. I am a new junior high school student. I am 13 years old and love programming technology.
+I like to write C++, Python and windows batch. I hope to help more people with programs. At present, I am a student of Informatics competition.
 
 I have my own **blog (On CSDN)** : <u>[click here.](https://pandaoxi.blog.csdn.net/)</u>
 I also have my own **video account (On Bilibili)** : <u>[click here.](https://space.bilibili.com/1016727711)</u>
@@ -19,6 +15,7 @@ I’m about to enter middle school. I may spend less energy on programming. I’
 My famous projects are as follows:
 
 ```
+Very Control
 Panda Cloud Netdisk
 Anti-Virus Game
 ACG Through Train
@@ -29,24 +26,17 @@ My achievements:
 
 > (1) **The 18th National Primary and secondary school information technology innovation and practice competition (NOC)** won the first prize of the national provincial competition and national competition.
 (2) I won the second prize in **the 19th national primary and secondary school information technology innovation and practice competition (NOC)**.
-
 ![NOC](https://img-blog.csdnimg.cn/img_convert/5b2ceca8a82a3cbb7431e3da78b2944a.png)
-> (3) **Microsoft Technical Assistant (MTA)** passed the competition.
-
+(3) **Microsoft Technical Assistant (MTA)** passed the competition.
 ![MTA](https://img-blog.csdnimg.cn/14b8fee3069b4e8a99eb1112721f3805.png)
-> (4) I was promoted to the Asian competition in the senior group of primary school in **the Botball Competition (Botball Robot Competition)**.
-
+(4) I was promoted to the Asian competition in the senior group of primary school in **the Botball Competition (Botball Robot Competition)**.
 ![Botball](https://img-blog.csdnimg.cn/205909282d5144ff92d706afb34d8e2a.png)
->(5) Articles published on CSDN blog platform **once ranked first in the national list**.
+(5) Articles published on CSDN blog platform **once ranked first in the national list**.
 (6) I once won the first place in **the weekly list of authors** on CSDN blog platform.
-
 ![CSDN](https://img-home.csdnimg.cn/images/20201124032511.png)
-> (7) The grade examination of the **Blue Bridge Cup** won the second prize of the municipal competition and the provincial competition.
-
+(7) The grade examination of the **Blue Bridge Cup** won the second prize of the municipal competition and the provincial competition.
 ![BlueBridge](https://img-blog.csdnimg.cn/710d27d48b7a49a1b04914e50a9a4416.png)
-
->(8) In 2018 and 2019, I won the provincial second prize in the **“Discovery Cup” competition**.
-
+(8) In 2018 and 2019, I won the provincial second prize in the **“Discovery Cup” competition**.
 ![DiscoveryCup](https://img-blog.csdnimg.cn/a43b1016f3f64bd88b8c0bd7988d129d.png)
 
 # Code Style Display
@@ -54,7 +44,7 @@ My achievements:
 Here are some simple styles that I usually use to write programs, so that everyone can know me better.
 
 ## Python
-From a project **Tool Module**.
+**From a project *Tool Module* **
 ```python
 class Math():
     def __init__(self):
@@ -98,7 +88,7 @@ class Math():
 ```
 
 ## C++
-From an **[explanation of my question](https://blog.csdn.net/PanDaoxi2020/article/details/122855628). **
+**From an *[explanation of my question](https://blog.csdn.net/PanDaoxi2020/article/details/122855628). * **
 ```cpp
 // Author:PanDaoxi
 #include <iostream>
@@ -125,7 +115,7 @@ int main(){
 }
 ```
 ## Windows Batch
-From a **[computer personalized applet.](https://www.bilibili.com/video/BV1cY4y1B7ya)**
+**From a *[computer personalized applet.](https://www.bilibili.com/video/BV1cY4y1B7ya)* **
 ```powershell
 chcp 65001 >nul
 cd "%userprofile%\desktop"
@@ -142,13 +132,10 @@ taskkill /im explorer.exe /f & explorer
 ```
 
 # About Us
-Here is some information about us. 
-If you need it, you can check it.
-
+Here is some information about us. If you need it, you can check it.
 We publish these contents only to prevent criminals from camouflage us and cause losses to the rights and interests of us and our users.
 
-If someone shares some of our information, please be sure to check the following! 
-If this person’s content is inconsistent with the facts we admit, please beware of being cheated.
+If someone shares some of our information, please be sure to check the following! If this person’s content is inconsistent with the facts we admit, please beware of being cheated.
 
 ## About Our Contact Information
 > E-mail: `pandaoxi@qq.com` and `2060642520@qq.com` ;
@@ -156,29 +143,18 @@ QQ: `2060642520` and `3377063617` ;
 Wechat: `pandaoxi2021` ;
 
 ## About Our Websites
-We have some websites. What you are visiting is the page under the main site.
-Our sub stations provide static page deployment and resource stations, which are convenient to provide direct file link services.
+We have some websites. You are visiting the page under the main site.
+Our sub station provides static page deployment station, which is convenient for providing static web page display.
 
 ### Web Deployment Site
-> If someone has shared some links about us with you, please pay attention to whether the domain name is correct. 
-> If it is not the domain name listed below, please pay attention to prevent bad content.
+> If someone has shared some links about us with you, please pay attention to whether the domain name is correct. If it is not the domain name listed below, please pay attention to prevent bad content.
 
 This is our main site. `https://pandaoxi.github.io/` [(Click here to visit the site.)](https://pandaoxi.github.io/)
-
 Static server 1: `https://pandaoxis.github.io/` [(Click here to visit the site.)](https://pandaoxis.github.io/)
-
 Static server 2: `https://pandaoxi2021.github.io/` [(Click here to visit the site.)](https://pandaoxi2021.github.io/)
-
 Static server 3: `https://pandaoxiweb.github.io/` [(Click here to visit the site.)](https://pandaoxiweb.github.io/)
 
-
-### Resource Station (file storage station)
-This is our main site. `https://pandaoxi.coding.net/public/pandaoxi/PanDaoxi/git/files` [(Click here to visit the site.)](https://pandaoxi.coding.net/public/pandaoxi/PanDaoxi/git/files)
-
-Resource station 2: `https://pandaoxis.coding.net/public/pdxres/pdxres/git/files` [(Click here to visit the site.)](https://pandaoxis.coding.net/public/pdxres/pdxres/git/files)
-
-Resource station 3: `https://newpdx.coding.net/public/laopan/laopan/git/files` [(Click here to visit the site.)](https://newpdx.coding.net/public/laopan/laopan/git/files)
-
+Document storage station: `https://pandaoxi.coding.net/public/pandaoxi/PanDaoxi/git/files` [(Click here to visit the site.)](https://pandaoxi.coding.net/public/pandaoxi/PanDaoxi/git/files)
 
 ---
 **At present, the young blogger has won more than *1000 fans* throughout the network.**
